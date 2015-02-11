@@ -1,0 +1,2 @@
+# awesome-yaml
+YAML awesomeness
