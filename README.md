@@ -7,6 +7,7 @@ YAML awesomeness
 ## Parsers
 
 - [Javascript](https://github.com/nodeca/js-yaml)
+- [Node.js](https://www.npmjs.com/package/yamljs)
 
 ## See also
 
