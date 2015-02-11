@@ -10,7 +10,7 @@ YAML awesomeness
 - [Node.js](https://www.npmjs.com/search?q=yaml)
 
 ## Projects
-- [Dynamic Yaml](https://github.com/dreftymac/dynamic-yaml)
+- [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
 
 ## See also
 
