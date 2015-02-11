@@ -4,6 +4,10 @@ YAML awesomeness
 
 > A curated list of YAML resources
 
+## Specification
+
+- [Official site] (http://www.yaml.org/)
+
 ## Parsers
 
 - [Javascript](https://github.com/nodeca/js-yaml)
