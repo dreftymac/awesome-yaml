@@ -8,6 +8,10 @@ YAML awesomeness
 
 - [Official site] (http://www.yaml.org/)
 
+## Documentation and resources
+
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
+
 ## Parsers
 
 - [Javascript](https://github.com/nodeca/js-yaml)
