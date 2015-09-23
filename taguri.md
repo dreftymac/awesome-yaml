@@ -1,5 +1,9 @@
 # Tag URI
 
+### Reference
+
+* http://www.taguri.org/
+
 ### Purpose
 
 The _tag_ algorithm lets people mint — create — identifiers that no one else using the same algorithm could ever mint. It is simple enough to do in your head, and the resulting identifiers can be easy to read, write, and remember. The identifiers conform to the [URI (URL) Syntax](http://www.ietf.org/rfc/rfc3986.txt).
