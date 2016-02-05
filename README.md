@@ -23,6 +23,10 @@ YAML awesomeness
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
 - [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 
+## mentions
+
+- [drupal convert](https://www.drupal.org/node/1793074)
+
 ## See also
 
 * https://github.com/sindresorhus/awesome
