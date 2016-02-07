@@ -23,9 +23,13 @@ YAML awesomeness
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
 - [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 
-## mentions
+## Mentions
 
 - [drupal convert](https://www.drupal.org/node/1793074)
+
+## GISTS
+
+* [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
 
 ## See also
 
