@@ -7,6 +7,7 @@ YAML awesomeness
 ## Specification
 
 - [Official site] (http://www.yaml.org/)
+- [Merge-keys spec] (http://yaml.org/type/merge.html)
 
 ## Documentation and resources
 
