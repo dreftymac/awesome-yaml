@@ -10,6 +10,7 @@ YAML awesomeness
 
 ## Documentation and resources
 
+- [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
 
 ## Parsers
