@@ -35,4 +35,5 @@ YAML awesomeness
 
 ## See also
 
-* https://github.com/sindresorhus/awesome
+* [Awesome curated](https://github.com/sindresorhus/awesome)
+* [Awesome JSON](https://github.com/burningtree/awesome-json)
