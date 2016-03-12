@@ -35,6 +35,7 @@ YAML is one of the most underrated "human-readable" data representation formats 
 ## Mentions
 
 - [drupal convert](https://www.drupal.org/node/1793074)
+- [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
 
 ## GISTS
 
