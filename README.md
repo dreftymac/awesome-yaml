@@ -10,6 +10,7 @@ YAML is one of the most underrated "human-readable" data representation formats 
 * Most developers who use it had a negative first-impression of the format, usually because of the syntax.
 * Some dislike the fact that YAML depends on indentation for specifying scope.
 * Some consider YAML to be superfluous: "XML and JSON fit the bill nicely enough".
+* Some have either never heard of YAML or are intimidated by the fact that it is not as famous as JSON or XML.
 
 ## Specification
 
@@ -36,6 +37,7 @@ YAML is one of the most underrated "human-readable" data representation formats 
 
 - [drupal convert](https://www.drupal.org/node/1793074)
 - [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
+- [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
 
 ## GISTS
 
