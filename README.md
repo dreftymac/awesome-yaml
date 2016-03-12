@@ -4,6 +4,8 @@ YAML awesomeness
 
 > A curated list of YAML resources
 
+## Overview
+
 YAML is one of the most underrated "human-readable" data representation formats in existence.
 * Most developers who use it had a negative first-impression of the format, usually because of the syntax.
 * Some dislike the fact that YAML depends on indentation for specifying scope.
