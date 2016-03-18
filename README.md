@@ -13,11 +13,33 @@ YAML awesomeness
 * Some have either never heard of YAML or are intimidated by the fact that it is not as famous as JSON or XML.
 
 ### YAML is a **supserset of JSON**
-* Does JSON support comments? 
-    * http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file
-    * http://stackoverflow.com/questions/26775073/how-to-add-comments-in-json-file
-    * http://stackoverflow.com/questions/11195101/add-json-file-comments
-* YAML provides the equivalent of JSON with comments.
+* Does JSON support comments? ... **NO** 
+   * http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file
+   * http://stackoverflow.com/questions/26775073/how-to-add-comments-in-json-file
+   * http://stackoverflow.com/questions/11195101/add-json-file-comments
+* Does JSON support comments? ... **YES** 
+   * To get JSON with comments, just use YAML instead of JSON
+      {
+        "json": [
+          "fat and rigid"
+        ],
+        "yaml": [
+          "skinny and flexible"
+        ],
+        "object": {
+          "array": [
+            {
+              "null_value": null
+            },
+            {
+              "boolean": true
+            },
+            {
+              "integer": 1
+            }
+          ]
+        }
+      }
 
 
 ## Specification
