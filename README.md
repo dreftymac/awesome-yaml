@@ -20,6 +20,7 @@ YAML awesomeness
 * Does JSON support comments? ... **YES** 
    * To get JSON with comments, just use YAML instead of JSON
    * YAML is a superset of JSON
+      ```
       > {
       >   "json": [
       >     "fat and rigid"
@@ -41,7 +42,7 @@ YAML awesomeness
       >     ]
       >   }
       > }
-
+      ```
 
 ## Specification
 
