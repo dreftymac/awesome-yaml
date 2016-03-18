@@ -20,29 +20,29 @@ YAML awesomeness
 * Does JSON support comments? ... **YES** 
    * To get JSON with comments, just use YAML instead of JSON
    * YAML is a superset of JSON
-      ```
-      {
-       "json": [
-         "fat and rigid"
-       ],
-       "yaml": [
-         "skinny and flexible"
-       ],
-       "object": {
-         "array": [
-           {
-             "null_value": null
-           },
-           {
-             "boolean": true
-           },
-           {
-             "integer": 1
-           }
-         ]
-       }
-      }
-      ```
+```
+{
+ "json": [
+   "fat and rigid"
+ ],
+ "yaml": [
+   "skinny and flexible"
+ ],
+ "object": {
+   "array": [
+     {
+       "null_value": null
+     },
+     {
+       "boolean": true
+     },
+     {
+       "integer": 1
+     }
+   ]
+ }
+}
+```
 
 ## Specification
 
