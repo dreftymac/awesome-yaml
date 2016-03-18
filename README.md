@@ -16,7 +16,8 @@ YAML awesomeness
 * Does JSON support comments? 
     * http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file
     * http://stackoverflow.com/questions/26775073/how-to-add-comments-in-json-file
-* YAML can be used to emulate JSON with comments.
+    * http://stackoverflow.com/questions/11195101/add-json-file-comments
+* YAML provides the equivalent of JSON with comments.
 
 
 ## Specification
