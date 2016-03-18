@@ -6,11 +6,18 @@ YAML awesomeness
 
 ## Overview
 
-YAML is one of the most underrated "human-readable" data representation formats in existence.
+### YAML is **underrated**.
 * Most developers who use it had a negative first-impression of the format, usually because of the syntax.
 * Some dislike the fact that YAML depends on indentation for specifying scope.
 * Some consider YAML to be superfluous: "XML and JSON fit the bill nicely enough".
 * Some have either never heard of YAML or are intimidated by the fact that it is not as famous as JSON or XML.
+
+### YAML is a **supserset of JSON**
+* Does JSON support comments? 
+    * http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file
+    * http://stackoverflow.com/questions/26775073/how-to-add-comments-in-json-file
+* YAML can be used to emulate JSON with comments.
+
 
 ## Specification
 
