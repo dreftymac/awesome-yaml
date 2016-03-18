@@ -19,6 +19,7 @@ YAML awesomeness
    * http://stackoverflow.com/questions/11195101/add-json-file-comments
 * Does JSON support comments? ... **YES** 
    * To get JSON with comments, just use YAML instead of JSON
+   * YAML is a superset of JSON
       {
         "json": [
           "fat and rigid"
