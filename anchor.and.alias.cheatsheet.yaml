@@ -1,5 +1,5 @@
-dataroot:
-  person_table:
+dataroot: &uutreeroot
+  person_table: &uutbperson
     - &person001
       fname:  homer
       lname:  simpson
@@ -27,14 +27,14 @@ dataroot:
   ## using the non-folding `*` star method causes the transported_name_value_pairs
   ## to be nested underneath the containing key of the local_name_value_pairs
   ## in this example, the `char` key becomes the parent container for a nested dictionary
-  toublemaker_table:
+  toublemaker_table: &uutbtroub
     - char:     *person005
       motto:    kowabunga
       
     - char:     *person006
       motto:    Oh, how ruthlessly absurd.
       
-  dad_table:
+  dad_table: &uutbdad
     ## using the `<<:` fold method causes the transported_name_value_pairs
     ## to all be at the same depth-level as the local_name_value_pairs
     ## in this example, the `motto` and `role` keys simply get added on to the
