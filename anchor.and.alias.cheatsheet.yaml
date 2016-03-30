@@ -26,6 +26,24 @@ dataroot: &uutreeroot
       role:   troublemaker
       age:    3
       
+    - &character007
+      fname:  meg
+      lname:  griffin
+      role:   victim_kid
+      age:    14
+      
+    - &character008
+      fname:  lisa
+      lname:  simpson
+      role:   smart_kid
+      age:    12
+      
+    - &character009
+      fname:  marge
+      lname:  simpson
+      role:   mom
+      age:    32         
+      
   ## This pulls in an alias using the nonfolding method
   ## This causes the transported_name_value_pairs to be nested underneath the
   ## containing key of the local_name_value_pairs
@@ -62,6 +80,16 @@ dataroot: &uutreeroot
       motto:    DOH
       ## Here the `role` field of character001 gets changed from "daddy" to empty_string
       role:     ""
+  
+  ## here a table is created with nothing more than anchors and row_folding
+  woman_table: &uutbwoman
+    - &ftrow_1x
+      <<: *character007
+    - &ftrow_2x
+      <<: *character008
+    - &ftrow_3x
+      <<: *character009
+  
       
 ## href="c:/sm/docs/mytrybits/y/tryyaml/dynamicyaml/devlog.txt"
 ## href="c:/sm/docs/mymedia/2014/git/github/dynamic.yaml/py/ddyaml.py"
