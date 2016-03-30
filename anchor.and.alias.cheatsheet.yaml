@@ -5,7 +5,7 @@ dataroot: &uutreeroot
     - &character001
       fname:  homer
       lname:  simpson
-      role:   dad
+      role:   daddy
       age:    33
 
     - &character003
@@ -26,15 +26,24 @@ dataroot: &uutreeroot
       role:   troublemaker
       age:    3
       
-  ## using the non-folding `*` star method causes the transported_name_value_pairs
-  ## to be nested underneath the containing key of the local_name_value_pairs
+  ## This pulls in an alias using the nonfolding method
+  ## This causes the transported_name_value_pairs to be nested underneath the
+  ## containing key of the local_name_value_pairs
   ## in this example, the `char` key becomes the parent container for a nested dictionary
   toublemaker_table: &uutbtroub
     - char:     *character005
       motto:    kowabunga
+      ## here we have a duplicate `role` field, but it does not overwrite
+      ## the transported_name_value_pair for `character_table.role` because
+      ## that is nested under the `char:` key
+      role:     comic_relief
       
     - char:     *character006
       motto:    Oh, how ruthlessly absurd.
+      ## here we have a duplicate `role` field, but it does not overwrite
+      ## the transported_name_value_pair for `character_table.role` because
+      ## that is nested under the `char:` key
+      role:     evil_genius
       
   dad_table: &uutbdad
     ## using the `<<:` fold method causes the transported_name_value_pairs
@@ -42,14 +51,16 @@ dataroot: &uutreeroot
     ## in this example, the `motto` and `role` keys simply get added on to the
     ## transported_name_value_pairs
     - <<:       *character003
-      motto:    Aw, c'mon Lois, isn't 'bribe' just another word for 'love'?
+      ## Here the `role` field of character003 gets changed from "dad" to "Father"
       role:     Father
+      motto:    Aw, c'mon Lois, isn't 'bribe' just another word for 'love'?
 
     ## since the "role" name is duplicated, the transported_name_value_pair
     ## gets overwritten by the local_name_value_pair.
     ## This is true even if local_value is blank      
     - <<:       *character001
       motto:    DOH
+      ## Here the `role` field of character001 gets changed from "daddy" to empty_string
       role:     ""
       
 ## href="c:/sm/docs/mytrybits/y/tryyaml/dynamicyaml/devlog.txt"
