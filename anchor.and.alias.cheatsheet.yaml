@@ -1,24 +1,26 @@
 dataroot: &uutreeroot
-  person_table: &uutbperson
-    - &person001
+  ## here is a simple table structure constructed
+  ## with a list of dictionaries (aka hash aka object)
+  character_table: &uutbcharacter
+    - &character001
       fname:  homer
       lname:  simpson
       role:   dad
       age:    33
 
-    - &person003
+    - &character003
       fname:  peter
       lname:  griffin
       role:   dad
       age:    38
       
-    - &person005
+    - &character005
       fname:  bart
       lname:  simpson
       role:   troublemaker
       age:    8
 
-    - &person006
+    - &character006
       fname:  stewie
       lname:  griffin
       role:   troublemaker
@@ -28,10 +30,10 @@ dataroot: &uutreeroot
   ## to be nested underneath the containing key of the local_name_value_pairs
   ## in this example, the `char` key becomes the parent container for a nested dictionary
   toublemaker_table: &uutbtroub
-    - char:     *person005
+    - char:     *character005
       motto:    kowabunga
       
-    - char:     *person006
+    - char:     *character006
       motto:    Oh, how ruthlessly absurd.
       
   dad_table: &uutbdad
@@ -39,14 +41,14 @@ dataroot: &uutreeroot
     ## to all be at the same depth-level as the local_name_value_pairs
     ## in this example, the `motto` and `role` keys simply get added on to the
     ## transported_name_value_pairs
-    - <<:       *person003
+    - <<:       *character003
       motto:    Aw, c'mon Lois, isn't 'bribe' just another word for 'love'?
       role:     Father
 
     ## since the "role" name is duplicated, the transported_name_value_pair
     ## gets overwritten by the local_name_value_pair.
     ## This is true even if local_value is blank      
-    - <<:       *person001
+    - <<:       *character001
       motto:    DOH
       role:     ""
       
@@ -56,7 +58,9 @@ __yaml__:
 
   - &uuid001
     caption:      caption
-    rowkeep: 1
+    processthis:  1
     uuid:         uuid001
     template:         |
       {{ dataroot |jjdata_formatas('jsonpretty') }}
+
+
