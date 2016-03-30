@@ -90,6 +90,14 @@ dataroot: &uutreeroot
     - &ftrow_3x
       <<: *character009
   
+  ## here a datarecord is created with addon fields from a record inside an
+  ## aliased table. Notice here that the folded 'role' field gets clobbered
+  ## by the local `role` field
+  xx_favecharacter_info:
+    type: animated
+    sex:  female
+    role: lead female
+    <<:   *ftrow_3x
       
 ## href="c:/sm/docs/mytrybits/y/tryyaml/dynamicyaml/devlog.txt"
 ## href="c:/sm/docs/mymedia/2014/git/github/dynamic.yaml/py/ddyaml.py"
