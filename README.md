@@ -56,10 +56,11 @@ YAML awesomeness
 
 ## Parsers
 
-- [Javascript](https://github.com/nodeca/js-yaml)
+- [golang](https://github.com/go-yaml/yaml)
+- [javascript](https://github.com/nodeca/js-yaml)
     - http://nodeca.github.io/js-yaml/
 - [Node.js](https://www.npmjs.com/search?q=yaml)
-- [golang](https://github.com/go-yaml/yaml)
+- [shell](https://johnlane.ie/yay-use-yaml-in-bash-scripts.html)
 
 ## Projects
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
