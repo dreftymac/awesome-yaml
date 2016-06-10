@@ -76,6 +76,10 @@ YAML awesomeness
 
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
 
+## Searches
+
+* https://duckduckgo.com/?q=yaml+shell&ia=qa
+
 ## See also
 
 * [Awesome curated](https://github.com/sindresorhus/awesome)
