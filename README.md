@@ -61,6 +61,7 @@ YAML awesomeness
     - http://nodeca.github.io/js-yaml/
 - [Node.js](https://www.npmjs.com/search?q=yaml)
 - [shell](https://johnlane.ie/yay-use-yaml-in-bash-scripts.html)
+- [yay](https://github.com/yaybu/yay)
 
 ## Projects
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
