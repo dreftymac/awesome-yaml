@@ -78,6 +78,9 @@ YAML awesomeness
 
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
 
+## YAML Gems
+* [Using YAML custom tags (Advanced)](http://stackoverflow.com/a/23212501/42223)
+
 ## Searches
 
 * https://duckduckgo.com/?q=yaml+shell&ia=qa
