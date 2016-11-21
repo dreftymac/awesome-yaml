@@ -67,6 +67,8 @@ YAML awesomeness
 ## Projects
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
 - [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
+* [YAMLForm-Drupal8] (http://yamlform.io/)
+    * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Mentions
 
