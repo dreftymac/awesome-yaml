@@ -63,6 +63,8 @@ YAML awesomeness
 - [Node.js](https://www.npmjs.com/search?q=yaml)
 - [shell](https://johnlane.ie/yay-use-yaml-in-bash-scripts.html)
 - [yay](https://github.com/yaybu/yay)
+- [YAML Syntax Checker (Linter)]
+    - https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
 
 ## Projects
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
