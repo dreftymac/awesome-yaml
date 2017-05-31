@@ -73,6 +73,9 @@ YAML awesomeness
     * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 - [Python-Related](https://github.com/genomoncology/related    )
 
+## Alternatives (competing)
+- [ArchieML](http://archieml.org/)
+
 ## Mentions
 
 - [drupal convert](https://www.drupal.org/node/1793074)
