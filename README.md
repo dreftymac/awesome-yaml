@@ -75,6 +75,7 @@ YAML awesomeness
 
 ## Alternatives (competing)
 - [ArchieML](http://archieml.org/)
+- [TOML](https://github.com/toml-lang/toml)
 
 ## Mentions
 
