@@ -4,6 +4,12 @@ YAML awesomeness
 
 > A curated list of YAML resources
 
+## See also
+
+There's another git repository out there! Let's collaborate?
+
+* https://github.com/datatxt/awseome-yaml
+
 ## Overview
 
 ### YAML is **underrated**
