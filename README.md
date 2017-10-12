@@ -44,16 +44,24 @@ YAML awesomeness
 }
 ```
 
-## Specification
+# Digging in
 
-- [Official site] (http://www.yaml.org/)
-- [Merge-keys spec] (http://yaml.org/type/merge.html)
+## Alternatives (competing)
+- [ArchieML](http://archieml.org/)
+- [TOML](https://github.com/toml-lang/toml)
+- [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 
 ## Documentation and resources
 
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
 - [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
+
+## Mentions
+- [drupal convert](https://www.drupal.org/node/1793074)
+- [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
+- [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
+- [Statamic CMS](https://docs.statamic.com/yaml)
 
 ## Parsers
 
@@ -76,20 +84,14 @@ YAML awesomeness
 - [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
 
-## Alternatives (competing)
-- [ArchieML](http://archieml.org/)
-- [TOML](https://github.com/toml-lang/toml)
-- [JSONnet templating](http://jsonnet.org/language/comparisons.html)
+## Specification
+- [Official site] (http://www.yaml.org/)
+- [Merge-keys spec] (http://yaml.org/type/merge.html)
 
-## Mentions
+## Templating
+- [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
 
-- [drupal convert](https://www.drupal.org/node/1793074)
-- [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
-- [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
-- [Statamic CMS](https://docs.statamic.com/yaml)
-
-
-## GISTS
+## YAML GISTS
 
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
 
