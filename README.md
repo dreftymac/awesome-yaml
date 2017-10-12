@@ -67,6 +67,7 @@ YAML awesomeness
     - https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
 
 ## Projects
+- [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
 - [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
 - [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 * [YAMLForm-Drupal8] (http://yamlform.io/)
