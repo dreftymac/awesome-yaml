@@ -69,6 +69,7 @@ YAML awesomeness
 - [javascript](https://github.com/nodeca/js-yaml)
     - http://nodeca.github.io/js-yaml/
 - [Node.js](https://www.npmjs.com/search?q=yaml)
+- [R](https://github.com/viking/r-yaml/tree/master)
 - [shell](https://johnlane.ie/yay-use-yaml-in-bash-scripts.html)
 - [yay](https://github.com/yaybu/yay)
 - [YAML Syntax Checker (Linter)](http://yamllint.readthedocs.io/en/latest/quickstart.html#installing-yamllint)
