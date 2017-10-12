@@ -93,7 +93,9 @@ YAML awesomeness
 - [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
 - [YST YAML plus Haskell](https://github.com/jgm/yst)
 - [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
+- [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
 - [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
+
 
 ## YAML GISTS
 
