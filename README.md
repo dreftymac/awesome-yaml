@@ -2,13 +2,13 @@
 
 YAML awesomeness
 
-> A curated list of YAML resources
+> A curated list of YAML resources. See also [Awesome Yaml](https://github.com/datatxt/awseome-yaml)
 
 ## See also
 
 There's another git repository out there! Let's collaborate?
 
-* https://github.com/datatxt/awseome-yaml
+* 
 
 ## Overview
 
@@ -103,5 +103,6 @@ There's another git repository out there! Let's collaborate?
 
 ## See also
 
+* [Awesome Yaml](https://github.com/datatxt/awseome-yaml)
 * [Awesome curated](https://github.com/sindresorhus/awesome)
 * [Awesome JSON](https://github.com/burningtree/awesome-json)
