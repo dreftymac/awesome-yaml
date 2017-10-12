@@ -91,6 +91,7 @@ YAML awesomeness
 ## Templating
 - [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
 - [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
+- [YST YAML plus Haskell](https://github.com/jgm/yst)
 
 ## YAML GISTS
 
