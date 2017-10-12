@@ -113,6 +113,8 @@ YAML awesomeness
 
 * [Awesome YAML](https://github.com/datatxt/awseome-yaml)
 * [Awesome curated](https://github.com/sindresorhus/awesome)
-* [Awesome awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+* [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+* [Awesome contributions](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 * [Awesome JSON](https://github.com/burningtree/awesome-json)
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
+
