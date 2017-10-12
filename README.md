@@ -73,6 +73,7 @@ YAML awesomeness
 * [YAMLForm-Drupal8] (http://yamlform.io/)
     * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 - [Python-Related](https://github.com/genomoncology/related    )
+- [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 
 ## Alternatives (competing)
 - [ArchieML](http://archieml.org/)
