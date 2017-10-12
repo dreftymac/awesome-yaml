@@ -74,6 +74,7 @@ YAML awesomeness
     * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 - [Python-Related](https://github.com/genomoncology/related    )
 - [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
+- [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
 
 ## Alternatives (competing)
 - [ArchieML](http://archieml.org/)
