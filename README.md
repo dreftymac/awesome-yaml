@@ -59,7 +59,7 @@ There's another git repository out there! Let's collaborate?
 
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
-- [Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
+- [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
 
 ## Parsers
 
