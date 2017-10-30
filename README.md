@@ -77,7 +77,8 @@ YAML awesomeness
 
 ## Projects
 - [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
-- [Dynamic Yaml](https://github.com/dreftymac/dynamic.yaml)
+- [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
+- [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
 - [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 * [YAMLForm-Drupal8] (http://yamlform.io/)
     * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
