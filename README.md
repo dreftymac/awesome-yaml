@@ -83,6 +83,7 @@ YAML awesomeness
 * [YAMLForm-Drupal8] (http://yamlform.io/)
     * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 - [Python-Related](https://github.com/genomoncology/related    )
+- [Repoze](http://docs.repoze.org/configuration/index.html)
 - [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
 
