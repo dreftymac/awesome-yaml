@@ -100,6 +100,9 @@ YAML awesomeness
 - [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
 - [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
 
+## Tutorial
+- [YAML-Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
+
 ## YAML GISTS
 
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
