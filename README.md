@@ -88,6 +88,7 @@ YAML awesomeness
 - [Repoze](http://docs.repoze.org/configuration/index.html)
 - [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
+- [Yamlinc](https://github.com/javanile/yamlinc)
 
 ## Specification
 - [Official site] (http://www.yaml.org/)
