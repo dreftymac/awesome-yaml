@@ -54,6 +54,9 @@ YAML awesomeness
 - [TOML](https://github.com/toml-lang/toml)
 - [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 
+## Annoyances
+- [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1)
+
 ## Documentation and resources
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
