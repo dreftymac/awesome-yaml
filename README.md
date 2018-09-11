@@ -13,11 +13,11 @@ YAML awesomeness
 * Some have either never heard of YAML or are intimidated by the fact that it is not as famous as JSON or XML.
 
 ### YAML is a **supserset of JSON**
-* Does JSON support comments? ... **NO** 
+* Does JSON support comments? ... **NO**
    * http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file
    * http://stackoverflow.com/questions/26775073/how-to-add-comments-in-json-file
    * http://stackoverflow.com/questions/11195101/add-json-file-comments
-* Does JSON support comments? ... **YES** 
+* Does JSON support comments? ... **YES**
    * To get JSON with comments, just use YAML instead of JSON
    * YAML is a superset of JSON
 ```
@@ -52,12 +52,13 @@ YAML awesomeness
 - [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 
 ## Documentation and resources
-
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
 - [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
+- [YAML Multiline](http://yaml-multiline.info/)
 
 ## Mentions
+- [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
 - [drupal convert](https://www.drupal.org/node/1793074)
 - [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
 - [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
@@ -65,7 +66,6 @@ YAML awesomeness
 - [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
 
 ## Parsers
-
 - [golang](https://github.com/go-yaml/yaml)
 - [javascript](https://github.com/nodeca/js-yaml)
     - http://nodeca.github.io/js-yaml/
@@ -90,6 +90,9 @@ YAML awesomeness
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
 - [Yamlinc](https://github.com/javanile/yamlinc)
 
+## Security
+- [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
+
 ## Specification
 - [Official site] (http://www.yaml.org/)
 - [Merge-keys spec] (http://yaml.org/type/merge.html)
@@ -106,18 +109,15 @@ YAML awesomeness
 - [YAML-Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
 
 ## YAML GISTS
-
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
 
 ## YAML Gems
 * [Using YAML custom tags (Advanced)](http://stackoverflow.com/a/23212501/42223)
 
 ## Searches
-
 * https://duckduckgo.com/?q=yaml+shell&ia=qa
 
 ## See also
-
 * [Awesome YAML](https://github.com/datatxt/awseome-yaml)
 * [Awesome curated](https://github.com/sindresorhus/awesome)
 * [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
