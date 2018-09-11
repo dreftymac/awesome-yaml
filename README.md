@@ -77,18 +77,19 @@ YAML awesomeness
     - https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
 
 ## Projects
-- [YAML Official](https://github.com/yaml)
 - [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
+- [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 - [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
 - [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
-- [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
-* [YAMLForm-Drupal8] (http://yamlform.io/)
-    * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
+- [Go language](https://github.com/go-yaml/yaml)
+- [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 - [Python-Related](https://github.com/genomoncology/related    )
 - [Repoze](http://docs.repoze.org/configuration/index.html)
-- [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
+- [YAML Official](https://github.com/yaml)
 - [Yamlinc](https://github.com/javanile/yamlinc)
+* [YAMLForm-Drupal8] (http://yamlform.io/)
+    * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Security
 - [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
