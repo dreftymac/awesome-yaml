@@ -30,7 +30,7 @@ YAML awesomeness
 * Most developers who use it had a negative first-impression of the format, usually because of the syntax.
 * Some dislike the fact that YAML allows the use of indentation for specifying scope (although indentation is technically not required).
 * Some consider YAML to be superfluous: "XML and JSON fit the bill nicely enough".
-* Some have either never heard of YAML or are intimidated by the fact that it is not as famous as JSON or XML.
+* Some have either never heard of YAML or are influenced by the fact that it is not as famous as JSON or XML.
 
 ### YAML is a **supserset of JSON**
 * Does JSON support comments? ... **NO**
