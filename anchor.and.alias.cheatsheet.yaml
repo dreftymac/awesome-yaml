@@ -1,6 +1,6 @@
 dataroot: &uutreeroot
   ## here is a simple table structure constructed
-  ## with a list of dictionaries (aka hash aka object)
+  ## with a list of dictionaries (aka hash aka object aka associative-array)
   character_table: &uutbcharacter
     - &character001
       fname:  homer
