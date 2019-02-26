@@ -75,7 +75,7 @@ YAML awesomeness
 - [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 
 ## Annoyances
-- [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1)
+- [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
 
 ## Documentation and resources
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
