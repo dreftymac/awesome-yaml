@@ -109,6 +109,7 @@ YAML awesomeness
 - [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
 - [Go language](https://github.com/go-yaml/yaml)
 - [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
+- [Kubernetes uses YAML](https://en.wikipedia.org/wiki/Kubernetes)
 - [Python-Related](https://github.com/genomoncology/related    )
 - [Repoze](http://docs.repoze.org/configuration/index.html)
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
