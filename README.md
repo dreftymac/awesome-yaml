@@ -143,7 +143,8 @@ YAML awesomeness
 * [Using YAML custom tags (Advanced)](http://stackoverflow.com/a/23212501/42223)
 
 ## Searches
-* https://duckduckgo.com/?q=yaml+shell&ia=qa
+* [YAML placeholder variables](https://duckduckgo.com/?q=yaml+placeholder+variables)
+* [YAML shell](https://duckduckgo.com/?q=yaml+shell&ia=qa)
 
 ## See also
 * [Awesome YAML](https://github.com/datatxt/awseome-yaml)
