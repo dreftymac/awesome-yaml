@@ -113,6 +113,7 @@ YAML awesomeness
 - [Python-Related](https://github.com/genomoncology/related    )
 - [Repoze](http://docs.repoze.org/configuration/index.html)
 - [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
+- [Sublime YAML Macros](https://github.com/Thom1729/YAML-Macros)
 - [YAML Official](https://github.com/yaml)
 - [Yamlinc](https://github.com/javanile/yamlinc)
 * [YAMLForm-Drupal8] (http://yamlform.io/)
