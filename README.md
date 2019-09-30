@@ -5,14 +5,11 @@
 ###     dmid: "uu151chariot_unveiled"
 ###     date: created="2019-02-26 09:33:48"
 ###     last: lastmod="2019-02-26 09:33:48"
-###     tags: __tags__
-###     author:     created="__author__"
-###     filetype:   "__filetype__"
-###     lastupdate: "__lastupdate__"
+###     tags: yaml,github,dreftymac
 ###     desc: |
-###         * __desc__
+###         * github awesome-yaml
 ###     seealso: |
-###         * __seealso__
+###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
 ###     seeinstead: |
 ###         * __seeinstead__
 ### <end-file_info>
