@@ -75,11 +75,14 @@ YAML awesomeness
 - [Advanced YAML features](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
 ## Alternatives (competing)
-- [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
-- [ArchieML](http://archieml.org/)
-- [Hjson](https://github.com/hjson/)
-- [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
-- [TOML](https://github.com/toml-lang/toml)
+* Alternatives misc
+    * [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
+    * [Structured text tools (@dbohdan)](https://github.com/dbohdan/structured-text-tools)
+* Individuals
+    * [ArchieML](http://archieml.org/)
+    * [Hjson](https://github.com/hjson/)
+    * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
+    * [TOML](https://github.com/toml-lang/toml)
 
 ## Annoyances
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
@@ -170,10 +173,8 @@ YAML awesomeness
 * [Awesome JSON](https://github.com/burningtree/awesome-json)
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
 
-### Code generation
-* [GH Topic Code Generation](https://github.com/topics/code-generation?o=desc&s=stars)
-
 ### Github
+* [GH Topic Code Generation](https://github.com/topics/code-generation?o=desc&s=stars)
 * [GH Topic YAML](https://github.com/topics/yaml?o=desc&s=stars)
 
 ## 💀 R.I.P.
