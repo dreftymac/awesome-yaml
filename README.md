@@ -88,12 +88,12 @@ YAML awesomeness
 ## Advanced
 - [Advanced YAML features (@cyklo)](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
-## Alternatives (competing)
-* Alternatives misc
+## Alternatives
+* Alternatives compared
     * [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
     * [Comparison of config formats (blogpost)](https://blog.ometer.com/2015/09/07/json-like-config-a-spectrum-of-underoverengineering)
     * [Structured text tools (@dbohdan)](https://github.com/dbohdan/structured-text-tools)
-* Individuals
+* Alternatives (one-off competing)
     * [ArchieML](http://archieml.org/)
     * [dhall-lang](https://dhall-lang.org/)
     * [Hjson](https://github.com/hjson/)
@@ -101,6 +101,8 @@ YAML awesomeness
     * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
     * [jsonnet](https://jsonnet.org/)
     * [TOML](https://github.com/toml-lang/toml)
+* Variants
+    * [Strict YAML](https://github.com/crdoconnor/strictyaml) uses a subset of the full YAML specification.
 
 ## Annoyances
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
