@@ -72,7 +72,7 @@ YAML awesomeness
 # Digging in
 
 ## Advanced
-- [Advanced YAML features](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
+- [Advanced YAML features (@cyklo)](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
 ## Alternatives (competing)
 * Alternatives misc
