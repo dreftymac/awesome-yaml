@@ -137,6 +137,9 @@ YAML awesomeness
 - [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
 - [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
 
+## Tools
+- [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
+
 ## Tutorial
 - [YAML-Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
 
