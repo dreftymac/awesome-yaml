@@ -157,12 +157,13 @@ YAML awesomeness
   - [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Security
-- [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
+* [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
 
 ## Specification
-- [Official site](http://www.yaml.org/)
-- [Merge-keys spec](http://yaml.org/type/merge.html)
-- [YAML Test Matrix](https://matrix.yaml.io/)
+* [Merge-keys spec](http://yaml.org/type/merge.html)
+* [Official site](http://www.yaml.org/)
+* [YAML Test Matrix](https://matrix.yaml.io/)
+* [YAML test suite](https://github.com/yaml/yaml-test-suite)
 
 ## Templating
 - [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
