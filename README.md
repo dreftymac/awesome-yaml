@@ -210,7 +210,7 @@ YAML awesomeness
 ## 💀 R.I.P.
 * [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
 * [golang JSON and YAML gotchas](http://ghodss.com/2014/the-right-way-to-handle-yaml-in-golang/)
-* [JSONnet templating](http://jsonnet.org/language/comparisons.html)
+
 
 
 
