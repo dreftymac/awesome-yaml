@@ -84,6 +84,7 @@ YAML awesomeness
     * [Hjson](https://github.com/hjson/)
     * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation)
     * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
+    * [jsonnet](https://jsonnet.org/)
     * [TOML](https://github.com/toml-lang/toml)
 
 ## Annoyances
