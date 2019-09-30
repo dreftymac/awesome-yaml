@@ -158,7 +158,8 @@ YAML awesomeness
 * [Awesome JSON](https://github.com/burningtree/awesome-json)
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
 
-## 💀
+## 💀 R.I.P.
+
 * [golang JSON and YAML gotchas](http://ghodss.com/2014/the-right-way-to-handle-yaml-in-golang/)
 
 
