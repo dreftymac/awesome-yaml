@@ -73,6 +73,7 @@ YAML awesomeness
 - [ArchieML](http://archieml.org/)
 - [TOML](https://github.com/toml-lang/toml)
 - [JSONnet templating](http://jsonnet.org/language/comparisons.html)
+- [Comparison of config formats](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 
 ## Annoyances
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
