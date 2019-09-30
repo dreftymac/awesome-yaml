@@ -150,7 +150,7 @@ YAML awesomeness
 * [YAML shell](https://duckduckgo.com/?q=yaml+shell&ia=qa)
 
 ## See also
-* [Awesome YAML](https://github.com/datatxt/awseome-yaml)
+* [Awesome YAML (datatxt) ](https://github.com/datatxt/awseome-yaml)
 * [Awesome curated](https://github.com/sindresorhus/awesome)
 * [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 * [Awesome contributions](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
