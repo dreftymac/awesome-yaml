@@ -66,6 +66,8 @@ YAML awesomeness
  }
 }
 ```
+* [Try it now!](http://www.yamllint.com/)
+
 
 # Digging in
 
