@@ -74,6 +74,7 @@ YAML awesomeness
 - [ArchieML](http://archieml.org/)
 - [Hjson](https://github.com/hjson/)
 - [JSONnet templating](http://jsonnet.org/language/comparisons.html)
+- [JSON various](https://github.com/burningtree/awesome-json#format-extensions)
 - [TOML](https://github.com/toml-lang/toml)
 
 ## Annoyances
