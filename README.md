@@ -97,12 +97,13 @@ YAML awesomeness
 - [YAML Multiline](http://yaml-multiline.info/)
 
 ## Mentions
-- [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
-- [drupal convert](https://www.drupal.org/node/1793074)
-- [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
 - [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
-- [Statamic CMS](https://docs.statamic.com/yaml)
+- [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
+- [drupal convert](https://www.drupal.org/node/1793074)
+- [Hacker News](https://duckduckgo.com/?q=site%3Anews.ycombinator.com+YAML&ia=web)
+- [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
 - [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
+- [Statamic CMS](https://docs.statamic.com/yaml)
 
 ## Parsers
 - [golang](https://github.com/go-yaml/yaml)
