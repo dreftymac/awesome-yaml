@@ -80,7 +80,6 @@ YAML awesomeness
 ## Documentation and resources
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
-- [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
 - [YAML Multiline](http://yaml-multiline.info/)
 
 ## Mentions
@@ -159,7 +158,7 @@ YAML awesomeness
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
 
 ## 💀 R.I.P.
-
+* [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
 * [golang JSON and YAML gotchas](http://ghodss.com/2014/the-right-way-to-handle-yaml-in-golang/)
 
 
