@@ -67,7 +67,7 @@ YAML awesomeness
 - [Advanced YAML features](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
 ## Alternatives (competing)
-- [Comparison of config formats](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
+- [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 - [ArchieML](http://archieml.org/)
 - [Hjson](https://github.com/hjson/)
 - [JSONnet templating](http://jsonnet.org/language/comparisons.html)
