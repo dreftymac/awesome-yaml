@@ -105,6 +105,9 @@ YAML awesomeness
 ## Annoyances
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
 
+## Critique
+* [Blog post](https://arp242.net/yaml-config.html)
+
 ## Documentation and resources
 - [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
