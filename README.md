@@ -10,6 +10,7 @@
 ###         * github awesome-yaml
 ###     seealso: |
 ###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
+###         * href="smartpath://mymedia/2014/git/github/awesome-yaml/readme.md"  find="uu151chariot_unveiled"
 ###     seeinstead: |
 ###         * __seeinstead__
 ### <end-file_info>
@@ -34,7 +35,7 @@ YAML awesomeness
    * http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file
    * http://stackoverflow.com/questions/26775073/how-to-add-comments-in-json-file
    * http://stackoverflow.com/questions/11195101/add-json-file-comments
-* Does JSON support comments? ... **YES**
+* Does JSON support comments? ... **YES** (if you use YAML)
    * To get JSON with comments, just use YAML instead of JSON
    * YAML is a superset of JSON
 
@@ -158,12 +159,17 @@ YAML awesomeness
 * [YAML shell](https://duckduckgo.com/?q=yaml+shell&ia=qa)
 
 ## See also
+
+### Aweseomeness
 * [Awesome YAML (datatxt) ](https://github.com/datatxt/awseome-yaml)
 * [Awesome curated](https://github.com/sindresorhus/awesome)
 * [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 * [Awesome contributions](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 * [Awesome JSON](https://github.com/burningtree/awesome-json)
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
+
+### Code generation
+* [GH Code Generation](https://github.com/topics/code-generation?o=desc&s=stars)
 
 ## 💀 R.I.P.
 * [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
