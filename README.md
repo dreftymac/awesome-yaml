@@ -77,10 +77,12 @@ YAML awesomeness
 ## Alternatives (competing)
 * Alternatives misc
     * [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
+    * [Comparison of config formats (blogpost)](https://blog.ometer.com/2015/09/07/json-like-config-a-spectrum-of-underoverengineering)
     * [Structured text tools (@dbohdan)](https://github.com/dbohdan/structured-text-tools)
 * Individuals
     * [ArchieML](http://archieml.org/)
     * [Hjson](https://github.com/hjson/)
+    * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation)
     * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
     * [TOML](https://github.com/toml-lang/toml)
 
