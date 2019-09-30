@@ -16,9 +16,18 @@
 ###         ## people
 ###         * https://twitter.com/briggsl
 ###         * https://leebriggs.co.uk/
+###         * http://champignon.net/
 ###     seeinstead: |
 ###         * __seeinstead__
 ### <end-file_info>
+--->
+
+<!---
+  ## other items not yet included
+  * yaml+jinja search ;; https://duckduckgo.com/?q=yaml+jinja+stackoverflow&ia=web
+  * people ;; http://champignon.net/
+  ## Variable placholders workarounds
+  * https://starkandwayne.com/blog/bashing-your-yaml/
 --->
 
 # awesome-yaml
@@ -86,6 +95,7 @@ YAML awesomeness
     * [Structured text tools (@dbohdan)](https://github.com/dbohdan/structured-text-tools)
 * Individuals
     * [ArchieML](http://archieml.org/)
+    * [dhall-lang](https://dhall-lang.org/)
     * [Hjson](https://github.com/hjson/)
     * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation)
     * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
@@ -159,6 +169,11 @@ YAML awesomeness
 ## Tools
 - [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
 - [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
+
+## Variables
+* [Variable placeholders in YAML](https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml)
+### Variables (example workarounds)
+* [Blog post on bash](https://starkandwayne.com/blog/bashing-your-yaml/)
 
 ## Tutorial
 - [YAML-Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
