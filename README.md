@@ -37,7 +37,12 @@ YAML awesomeness
 * Does JSON support comments? ... **YES**
    * To get JSON with comments, just use YAML instead of JSON
    * YAML is a superset of JSON
+
 ```
+## This is valid YAML syntax
+## Try it out now by copy-pasting it into an online YAML parser
+## http://yaml-online-parser.appspot.com/
+
 {
  "json": [
    "fat and rigid"
@@ -137,6 +142,7 @@ YAML awesomeness
 
 ## Tools
 - [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
+- [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
 
 ## Tutorial
 - [YAML-Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
