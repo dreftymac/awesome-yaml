@@ -128,8 +128,8 @@ YAML awesomeness
 - [Sublime YAML Macros](https://github.com/Thom1729/YAML-Macros)
 - [YAML Official](https://github.com/yaml)
 - [Yamlinc](https://github.com/javanile/yamlinc)
-* [YAMLForm-Drupal8](http://yamlform.io/)
-    * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
+- [YAMLForm-Drupal8](http://yamlform.io/)
+  - [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Security
 - [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
