@@ -171,7 +171,10 @@ YAML awesomeness
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
 
 ### Code generation
-* [GH Code Generation](https://github.com/topics/code-generation?o=desc&s=stars)
+* [GH Topic Code Generation](https://github.com/topics/code-generation?o=desc&s=stars)
+
+### Github
+* [GH Topic YAML](https://github.com/topics/yaml?o=desc&s=stars)
 
 ## 💀 R.I.P.
 * [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
