@@ -70,10 +70,11 @@ YAML awesomeness
 - [Advanced YAML features](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
 ## Alternatives (competing)
-- [ArchieML](http://archieml.org/)
-- [TOML](https://github.com/toml-lang/toml)
-- [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 - [Comparison of config formats](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
+- [ArchieML](http://archieml.org/)
+- [Hjson](https://github.com/hjson/)
+- [JSONnet templating](http://jsonnet.org/language/comparisons.html)
+- [TOML](https://github.com/toml-lang/toml)
 
 ## Annoyances
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
