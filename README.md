@@ -70,7 +70,6 @@ YAML awesomeness
 - [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
 - [ArchieML](http://archieml.org/)
 - [Hjson](https://github.com/hjson/)
-- [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 - [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
 - [TOML](https://github.com/toml-lang/toml)
 
@@ -100,6 +99,9 @@ YAML awesomeness
 - [yay](https://github.com/yaybu/yay)
 - [YAML Syntax Checker (Linter)](http://yamllint.readthedocs.io/en/latest/quickstart.html#installing-yamllint)
     - https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
+
+## People
+- [anthon@stackoverflow.com](https://stackoverflow.com/users/1307905/anthon)
 
 ## Projects
 - [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
@@ -160,6 +162,7 @@ YAML awesomeness
 ## 💀 R.I.P.
 * [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
 * [golang JSON and YAML gotchas](http://ghodss.com/2014/the-right-way-to-handle-yaml-in-golang/)
+* [JSONnet templating](http://jsonnet.org/language/comparisons.html)
 
 
 
