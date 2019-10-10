@@ -174,8 +174,9 @@ YAML awesomeness
 - [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
 
 ## Tools
-- [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
-- [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
+* [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
+* [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
+* [YAML to golang](https://mengzhuo.github.io/yaml-to-go/)
 
 ## Variables
 * [Variable placeholders in YAML](https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml)
