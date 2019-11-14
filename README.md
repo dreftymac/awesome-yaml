@@ -88,7 +88,7 @@ YAML awesomeness
 # Digging in
 
 ## Advanced
-- [Advanced YAML features (@cyklo)](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
+* [Advanced YAML features (@cyklo)](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
 ## Alternatives
 * Alternatives compared
@@ -114,49 +114,49 @@ YAML awesomeness
 * [YAML sucks](https://github.com/cblp/yaml-sucks)
 
 ## Documentation and resources
-- [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
-- [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
-- [YAML Multiline](http://yaml-multiline.info/)
+* [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
+* [YAML Multiline](http://yaml-multiline.info/)
 
 ## Mentions
-- [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
-- [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
-- [drupal convert](https://www.drupal.org/node/1793074)
-- [Hacker News](https://duckduckgo.com/?q=site%3Anews.ycombinator.com+YAML&ia=web)
-- [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
-- [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
-- [Statamic CMS](https://docs.statamic.com/yaml)
+* [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
+* [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
+* [drupal convert](https://www.drupal.org/node/1793074)
+* [Hacker News](https://duckduckgo.com/?q=site%3Anews.ycombinator.com+YAML&ia=web)
+* [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
+* [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
+* [Statamic CMS](https://docs.statamic.com/yaml)
 
 ## Parsers
-- [golang](https://github.com/go-yaml/yaml)
-- [javascript](https://github.com/nodeca/js-yaml)
-    - http://nodeca.github.io/js-yaml/
-- [Node.js](https://www.npmjs.com/search?q=yaml)
-- [R](https://github.com/viking/r-yaml/tree/master)
-- [shell](https://johnlane.ie/yay-use-yaml-in-bash-scripts.html)
-- [yay](https://github.com/yaybu/yay)
-- [YAML Syntax Checker (Linter)](http://yamllint.readthedocs.io/en/latest/quickstart.html#installing-yamllint)
-    - https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
+* [golang](https://github.com/go-yaml/yaml)
+* [javascript](https://github.com/nodeca/js-yaml)
+    * http://nodeca.github.io/js-yaml/
+* [Node.js](https://www.npmjs.com/search?q=yaml)
+* [R](https://github.com/viking/r-yaml/tree/master)
+* [shell](https://johnlane.ie/yay-use-yaml-in-bash-scripts.html)
+* [yay](https://github.com/yaybu/yay)
+* [YAML Syntax Checker (Linter)](http://yamllint.readthedocs.io/en/latest/quickstart.html#installing-yamllint)
+    * https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
 
 ## People
-- [anthon@stackoverflow.com](https://stackoverflow.com/users/1307905/anthon)
+* [anthon@stackoverflow.com](https://stackoverflow.com/users/1307905/anthon)
 
 ## Projects
-- [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
-- [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
-- [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
-- [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
-- [Go language](https://github.com/go-yaml/yaml)
-- [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
-- [Kubernetes uses YAML](https://en.wikipedia.org/wiki/Kubernetes)
-- [Python-Related](https://github.com/genomoncology/related    )
-- [Repoze](http://docs.repoze.org/configuration/index.html)
-- [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
-- [Sublime YAML Macros](https://github.com/Thom1729/YAML-Macros)
-- [YAML Official](https://github.com/yaml)
-- [Yamlinc](https://github.com/javanile/yamlinc)
-- [YAMLForm-Drupal8](http://yamlform.io/)
-  - [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
+* [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
+* [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
+* [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
+* [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
+* [Go language](https://github.com/go-yaml/yaml)
+* [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
+* [Kubernetes uses YAML](https://en.wikipedia.org/wiki/Kubernetes)
+* [Python-Related](https://github.com/genomoncology/related    )
+* [Repoze](http://docs.repoze.org/configuration/index.html)
+* [Spiff (on-hold as of 2017-08)](https://github.com/mandelsoft/spiff)
+* [Sublime YAML Macros](https://github.com/Thom1729/YAML-Macros)
+* [YAML Official](https://github.com/yaml)
+* [Yamlinc](https://github.com/javanile/yamlinc)
+* [YAMLForm-Drupal8](http://yamlform.io/)
+  * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Security
 * [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
@@ -168,12 +168,12 @@ YAML awesomeness
 * [YAML test suite](https://github.com/yaml/yaml-test-suite)
 
 ## Templating
-- [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
-- [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
-- [YST YAML plus Haskell](https://github.com/jgm/yst)
-- [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
-- [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
-- [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
+* [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
+* [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
+* [YST YAML plus Haskell](https://github.com/jgm/yst)
+* [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
+* [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
+* [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
 
 ## Tools
 * [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
