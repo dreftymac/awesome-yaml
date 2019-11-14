@@ -1,25 +1,27 @@
 <!---
-### <beg-file_info>
-### document_metadata:
-###   - caption: "README"
-###     dmid: "uu151chariot_unveiled"
-###     date: created="2019-02-26 09:33:48"
-###     last: lastmod="2019-02-26 09:33:48"
-###     tags: yaml,github,dreftymac
-###     desc: |
-###         * github awesome-yaml
-###     seealso: |
-###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
-###         * href="smartpath://mymedia/2014/git/github/awesome-yaml/readme.md"  find="uu151chariot_unveiled"
-###         * fun link ;; href="C:/sm/docs/mydaydirs/2019/week39/desktop/screencapture-blog-mozilla-org-nfroyd-2015-09-07-standardizing-things-my-way-2019-09-29-22_18_23-uu788trive8raft.png"
-###         * https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml.html
-###         ## people
-###         * https://twitter.com/briggsl
-###         * https://leebriggs.co.uk/
-###         * http://champignon.net/
-###     seeinstead: |
-###         * __seeinstead__
-### <end-file_info>
+  ### <beg-file_info>
+  ### document_metadata:
+  ###   - caption: "README"
+  ###     dmid: "uu151chariot_unveiled"
+  ###     date: created="2019-02-26 09:33:48"
+  ###     last: lastmod="2019-02-26 09:33:48"
+  ###     tags: yaml,github,dreftymac
+  ###     desc: |
+  ###         * github awesome-yaml
+  ###     seealso: |
+  ###         ## https
+  ###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
+  ###         * https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml.html
+  ###         ## smartpath
+  ###         * fun link ;; href="smartpath://mydaydirs/2019/week39/desktop/screencapture-blog-mozilla-org-nfroyd-2015-09-07-standardizing-things-my-way-2019-09-29-22_18_23-uu788trive8raft.png"
+  ###         * href="smartpath://mymedia/2014/git/github/awesome-yaml/readme.md"  find="uu151chariot_unveiled"
+  ###         ## people
+  ###         * https://twitter.com/briggsl
+  ###         * https://leebriggs.co.uk/
+  ###         * http://champignon.net/
+  ###     seeinstead: |
+  ###         * __seeinstead__
+  ### <end-file_info>
 --->
 
 <!---
