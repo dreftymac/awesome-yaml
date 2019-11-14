@@ -186,8 +186,10 @@ YAML awesomeness
 * [Blog post on bash](https://starkandwayne.com/blog/bashing-your-yaml/)
 
 ## Tutorial
-* [Yaml Primer](https://getopentest.org/reference/yaml-primer.html)
+* [YAML Primer](https://getopentest.org/reference/yaml-primer.html)
 * [YAML Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
+* [YAML tutorial](https://rhnh.net/2011/01/31/yaml-tutorial)
+* [YAML introduction](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml)
 
 ## YAML GISTS
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
