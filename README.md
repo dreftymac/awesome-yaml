@@ -174,7 +174,7 @@ YAML awesomeness
 * [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
 * [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
 * [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
-
+* [YTT YAML plus templating](https://get-ytt.io/) a YAML templating tool that aims to simplify complex configuration management
 ## Tools
 * [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
 * [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
