@@ -142,6 +142,7 @@ YAML awesomeness
 * [anthon@stackoverflow.com](https://stackoverflow.com/users/1307905/anthon)
 
 ## Projects
+* [Amazon ALEXA](https://github.com/KayLerch/alexa-skills-kit-tellask-java#prepare-your-utterance-yaml-file)
 * [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
 * [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 * [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
