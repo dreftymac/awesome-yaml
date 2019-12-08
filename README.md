@@ -32,6 +32,42 @@
   * https://starkandwayne.com/blog/bashing-your-yaml/
 --->
 
+<!---##xreg id="uu284glots" d="MarkdownTOC-auto-headers" ##--->
+<!-- MarkdownTOC -->
+
+- awesome-yaml
+  - Overview
+    - YAML is **underrated**
+    - YAML is a **supserset of JSON**
+- Digging in
+  - Advanced
+  - Alternatives
+  - Annoyances
+  - Critique
+  - Documentation and resources
+  - Mentions
+  - Parsers
+  - People
+  - Projects
+  - Security
+  - Specification
+  - Templating
+  - Tools
+  - Variables
+    - Variables \(example workarounds\)
+  - Tutorial
+  - YAML GISTS
+  - YAML Gems
+  - Searches
+  - See also
+    - Aweseomeness
+    - Github
+  - 💀 R.I.P.
+
+<!-- /MarkdownTOC -->
+<!---##/xreg uu284glots ##--->
+
+
 # awesome-yaml
 
 YAML awesomeness
