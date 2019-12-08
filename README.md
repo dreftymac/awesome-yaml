@@ -148,6 +148,7 @@ YAML awesomeness
 ## Critique
 * [Blog post](https://arp242.net/yaml-config.html)
 * [YAML sucks](https://github.com/cblp/yaml-sucks)
+* [YAML test matrix](https://matrix.yaml.io/valid.html)
 
 ## Documentation and resources
 * [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
