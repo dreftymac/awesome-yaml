@@ -35,34 +35,34 @@
 <!---##xreg id="uu284glots" d="MarkdownTOC-auto-headers" ##--->
 <!-- MarkdownTOC -->
 
-- awesome-yaml
-  - Overview
-    - YAML is **underrated**
-    - YAML is a **supserset of JSON**
-- Digging in
-  - Advanced
-  - Alternatives
-  - Annoyances
-  - Critique
-  - Documentation and resources
-  - Mentions
-  - Parsers
-  - People
-  - Projects
-  - Security
-  - Specification
-  - Templating
-  - Tools
-  - Variables
-    - Variables \(example workarounds\)
-  - Tutorial
-  - YAML GISTS
-  - YAML Gems
-  - Searches
-  - See also
-    - Aweseomeness
-    - Github
-  - 💀 R.I.P.
+- [awesome-yaml](#awesome-yaml)
+  - [Overview](#overview)
+    - [YAML is **underrated**](#yaml-is-underrated)
+    - [YAML is a **supserset of JSON**](#yaml-is-a-supserset-of-json)
+- [Digging in](#digging-in)
+  - [Advanced](#advanced)
+  - [Alternatives](#alternatives)
+  - [Annoyances](#annoyances)
+  - [Critique](#critique)
+  - [Documentation and resources](#documentation-and-resources)
+  - [Mentions](#mentions)
+  - [Parsers](#parsers)
+  - [People](#people)
+  - [Projects](#projects)
+  - [Security](#security)
+  - [Specification](#specification)
+  - [Templating](#templating)
+  - [Tools](#tools)
+  - [Variables](#variables)
+    - [Variables \(example workarounds\)](#variables-example-workarounds)
+  - [Tutorial](#tutorial)
+  - [YAML GISTS](#yaml-gists)
+  - [YAML Gems](#yaml-gems)
+  - [Searches](#searches)
+  - [See also](#see-also)
+    - [Aweseomeness](#aweseomeness)
+    - [Github](#github)
+  - [💀 R.I.P.](#%F0%9F%92%80-rip)
 
 <!-- /MarkdownTOC -->
 <!---##/xreg uu284glots ##--->
