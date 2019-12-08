@@ -138,8 +138,9 @@ YAML awesomeness
     * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation)
     * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
     * [jsonnet](https://jsonnet.org/)
+    * [NixOS Operating System](https://www.youtube.com/watch?v=D5Gq2wkRXpU)
+        * [NixOS YouTube](https://www.youtube.com/watch?v=D5Gq2wkRXpU)
     * [TOML](https://github.com/toml-lang/toml)
-    * [NixOS Operating System](https://www.youtube.com/watch?v=tl9I-R83lKo)
 * Variants
     * [Strict YAML](https://github.com/crdoconnor/strictyaml) uses a subset of the full YAML specification.
 
