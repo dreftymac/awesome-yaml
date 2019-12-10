@@ -12,6 +12,9 @@
   ###         ## https
   ###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
   ###         * https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml.html
+  ###         ## this
+  ###         * blog ;; href="./blog.md"
+  ###         * youtube ;; href="./youtube.md"
   ###         ## smartpath
   ###         * fun link ;; href="smartpath://mydaydirs/2019/week39/desktop/screencapture-blog-mozilla-org-nfroyd-2015-09-07-standardizing-things-my-way-2019-09-29-22_18_23-uu788trive8raft.png"
   ###         * href="smartpath://mymedia/2014/git/github/awesome-yaml/readme.md"  find="uu151chariot_unveiled"
@@ -35,7 +38,6 @@
 YAML awesomeness
 
 > A curated list of YAML resources. See also [Awesome Yaml (@datatxt)](https://github.com/datatxt/awseome-yaml)
-
 
 <!---##xreg id="uu284glots" d="MarkdownTOC-auto-headers" ##--->
 <!-- MarkdownTOC -->

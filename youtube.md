@@ -23,5 +23,6 @@
 ## YouTube videos
 
 * [YTT -- Text Templating of YAML](https://www.youtube.com/watch?v=7-PqgpkxC7E)
+* [YTT -- Text Templating of YAML](https://www.youtube.com/watch?v=KbB5tI_g3bo)
 
 
