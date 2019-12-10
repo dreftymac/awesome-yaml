@@ -32,6 +32,11 @@
   * https://starkandwayne.com/blog/bashing-your-yaml/
 --->
 
+YAML awesomeness
+
+> A curated list of YAML resources. See also [Awesome Yaml (@datatxt)](https://github.com/datatxt/awseome-yaml)
+
+
 <!---##xreg id="uu284glots" d="MarkdownTOC-auto-headers" ##--->
 <!-- MarkdownTOC -->
 
@@ -69,10 +74,6 @@
 
 
 # awesome-yaml
-
-YAML awesomeness
-
-> A curated list of YAML resources. See also [Awesome Yaml (@datatxt)](https://github.com/datatxt/awseome-yaml)
 
 ## Overview
 
