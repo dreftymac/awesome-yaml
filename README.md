@@ -168,6 +168,7 @@ YAML awesomeness
 * [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
 * [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
 * [Statamic CMS](https://docs.statamic.com/yaml)
+* [Flextype](https://docs.flextype.org/en/concepts/serializers/yaml)
 
 ## Parsers
 * [golang](https://github.com/go-yaml/yaml)
