@@ -38,7 +38,7 @@
   * https://starkandwayne.com/blog/bashing-your-yaml/
 
   ## link
-  * security ;; https://hitchdev.com/strictyaml/why/implicit-typing-removed/
+  * security ;; https://hitchdev.com/strictyaml/why/implicit-typing-removed
 --->
 
 YAML awesomeness
@@ -209,6 +209,7 @@ YAML awesomeness
   * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Security
+* [Norway Problem](https://hitchdev.com/strictyaml/why/implicit-typing-removed)
 * [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
 
 ## Specification
