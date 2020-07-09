@@ -28,11 +28,17 @@
 --->
 
 <!---
-  ## other items not yet included
+  # other items not yet included
+
+  ## items
   * yaml+jinja search ;; https://duckduckgo.com/?q=yaml+jinja+stackoverflow&ia=web
   * people ;; http://champignon.net/
+
   ## Variable placholders workarounds
   * https://starkandwayne.com/blog/bashing-your-yaml/
+
+  ## link
+  * security ;; https://hitchdev.com/strictyaml/why/implicit-typing-removed/
 --->
 
 YAML awesomeness
