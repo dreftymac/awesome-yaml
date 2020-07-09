@@ -7,7 +7,12 @@
   ###     last: lastmod="2019-02-26 09:33:48"
   ###     tags: yaml,github,dreftymac
   ###     desc: |
+  ###         ## notes
   ###         * github awesome-yaml
+  ###         ## editing
+  ###         * this readme file has a dependency on the ST3/MarkdownTOC package
+  ###             * infra://uu284gl
+  ###             * editing outside ST3 without this package requires manual updates to the TOC
   ###     seealso: |
   ###         ## https
   ###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
@@ -67,8 +72,10 @@ YAML awesomeness
     - [Specification](#specification)
     - [Templating](#templating)
     - [Tools](#tools)
+    - [Transformation](#transformation)
     - [Variables](#variables)
         - [Variables \(example workarounds\)](#variables-example-workarounds)
+    - [Validation](#validation)
     - [Tutorial](#tutorial)
     - [YAML GISTS](#yaml-gists)
     - [YAML Gems](#yaml-gems)
@@ -193,12 +200,13 @@ YAML awesomeness
 * [top users stackoverflow](https://stackoverflow.com/tags/yaml/topusers)
 
 ## Projects
+* [ADA YAML](https://ada.yaml.io/) with focus on YAML 1.3
 * [Amazon ALEXA](https://github.com/KayLerch/alexa-skills-kit-tellask-java#prepare-your-utterance-yaml-file)
 * [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
 * [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 * [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
 * [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
-* [Go language](https://github.com/go-yaml/yaml)
+* [Go language](https://github.com/go-yaml/yaml) golang-specific
 * [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 * [Kubernetes uses YAML](https://en.wikipedia.org/wiki/Kubernetes)
 * [Python-Related](https://github.com/genomoncology/related    )
@@ -235,10 +243,20 @@ YAML awesomeness
 * [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
 * [YAML to golang](https://mengzhuo.github.io/yaml-to-go/)
 
+## Transformation
+* [AdaYaml Transforms](https://ada.yaml.io/trans)
+* [Online transformation tools](https://www.browserling.com/tools/xml-to-yaml)
+* [DDG Search](https://duckduckgo.com/?q=YAML+transformation)
+* [JMESPath](https://jmespath.org/) technically a JSON tool, but powerful enough to be relevant here
+    * [JMESPath extensions](https://github.com/grofers/go-codon/wiki/Jmespath-extensions)
+
 ## Variables
 * [Variable placeholders in YAML](https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml)
 ### Variables (example workarounds)
 * [Blog post on bash](https://starkandwayne.com/blog/bashing-your-yaml/)
+
+## Validation
+* [DDG Search](https://duckduckgo.com/?q=yaml+validation)
 
 ## Tutorial
 * [YAML Primer](https://getopentest.org/reference/yaml-primer.html)
