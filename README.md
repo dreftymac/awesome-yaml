@@ -22,6 +22,7 @@
   ###         * https://twitter.com/briggsl
   ###         * https://leebriggs.co.uk/
   ###         * http://champignon.net/
+  ###         * https://stackoverflow.com/tags/yaml/topusers
   ###     seeinstead: |
   ###         * __seeinstead__
   ### <end-file_info>
@@ -189,6 +190,7 @@ YAML awesomeness
 
 ## People
 * [anthon@stackoverflow.com](https://stackoverflow.com/users/1307905/anthon)
+* [top users stackoverflow](https://stackoverflow.com/tags/yaml/topusers)
 
 ## Projects
 * [Amazon ALEXA](https://github.com/KayLerch/alexa-skills-kit-tellask-java#prepare-your-utterance-yaml-file)
