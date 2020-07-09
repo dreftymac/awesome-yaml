@@ -256,6 +256,7 @@ YAML awesomeness
 * [Blog post on bash](https://starkandwayne.com/blog/bashing-your-yaml/)
 
 ## Validation
+* [Cerberus](https://docs.python-cerberus.org/en/stable/) validation package for Python
 * [DDG Search](https://duckduckgo.com/?q=yaml+validation)
 
 ## Tutorial
