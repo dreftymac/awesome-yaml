@@ -210,7 +210,6 @@ YAML is a configuration format similar to JSON.
 * [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
 * [Code Beautify](http://codebeautify.org/yaml-to-json-xml-csv)
 * [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
-* [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
 * [Go language](https://github.com/go-yaml/yaml) golang-specific
 * [Heat Openstack](https://wiki.openstack.org/wiki/Heat/YAMLTemplates)
 * [Kubernetes uses YAML](https://en.wikipedia.org/wiki/Kubernetes)
@@ -298,6 +297,7 @@ YAML is a configuration format similar to JSON.
 
 ## 💀 R.I.P.
 * [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
+* [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
 * [golang JSON and YAML gotchas](http://ghodss.com/2014/the-right-way-to-handle-yaml-in-golang/)
 
 
