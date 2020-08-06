@@ -94,7 +94,7 @@ YAML is a configuration format similar to JSON.
 
 * [YAML Online](https://yaml.org)
 * [YAML Specfication v1.2](https://yaml.org/spec/1.2/spec.html)
-* [YAML Cheatsheet](https://github.com/dbohdan/structured-text-tools)
+* [YAML Cheatsheet](https://kapeli.com/cheat_sheets/YAML.docset/Contents/Resources/Documents/index)
 * [YAML Cheatsheet](https://yaml.org/refcard.html)
 
 ### YAML is **underrated**
