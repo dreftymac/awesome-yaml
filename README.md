@@ -235,7 +235,7 @@ YAML awesomeness
 * [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
 * [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
 * [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
-* [YTT YAML plus templating](https://get-ytt.io/) a YAML templating tool that aims to simplify complex configuration management
+* [ytt](https://get-ytt.io/) YAML Templating Tool. Templating and patching, together. Includes Python-like programming environment.
 * [Yglu](https://yglu.io) Structural YAML templating and processing
 
 ## Tools
