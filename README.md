@@ -96,6 +96,7 @@ YAML is a configuration format similar to JSON.
 * [YAML Specfication v1.2](https://yaml.org/spec/1.2/spec.html)
 * [YAML Cheatsheet](https://kapeli.com/cheat_sheets/YAML.docset/Contents/Resources/Documents/index)
 * [YAML Cheatsheet](https://yaml.org/refcard.html)
+* [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 ### YAML is **underrated**
 * Some developers who use it had a negative first-impression of the format, usually because of the syntax.
