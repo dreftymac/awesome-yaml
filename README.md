@@ -90,6 +90,13 @@ YAML awesomeness
 
 ## Overview
 
+YAML is a configuration format similar to JSON.
+
+* [YAML Online](https://yaml.org)
+* [YAML Specfication v1.2](https://yaml.org/spec/1.2/spec.html)
+* [YAML Cheatsheet](https://github.com/dbohdan/structured-text-tools)
+* [YAML Cheatsheet](https://yaml.org/refcard.html)
+
 ### YAML is **underrated**
 * Some developers who use it had a negative first-impression of the format, usually because of the syntax.
 * Some dislike the fact that YAML allows the use of indentation for specifying scope (although indentation is technically not required).
