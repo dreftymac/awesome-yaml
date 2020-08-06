@@ -9,7 +9,7 @@
   ###     desc: |
   ###         ## notes
   ###         * github awesome-yaml
-  ###         ## editing
+  ###         ## editing notes
   ###         * this readme file has a dependency on the ST3/MarkdownTOC package
   ###             * infra://uu284gl
   ###             * editing outside ST3 without this package requires manual updates to the TOC
@@ -42,9 +42,6 @@
 
   ## Variable placholders workarounds
   * https://starkandwayne.com/blog/bashing-your-yaml/
-
-  ## link
-  * security ;; https://hitchdev.com/strictyaml/why/implicit-typing-removed
 --->
 
 YAML awesomeness
@@ -97,7 +94,7 @@ YAML awesomeness
 * Some developers who use it had a negative first-impression of the format, usually because of the syntax.
 * Some dislike the fact that YAML allows the use of indentation for specifying scope (although indentation is technically not required).
 * Some consider YAML to be superfluous: "XML and JSON fit the bill nicely enough".
-* Some have either never heard of YAML or are influenced by the fact that it is not as famous as JSON or XML.
+* Some have either never heard of YAML or are influenced by the fact that it is (or at least was) not as famous as JSON or XML.
 
 ### YAML is a **supserset of JSON**
 * Does JSON support comments? ... **NO**
@@ -111,7 +108,7 @@ YAML awesomeness
 ```
 ## This is valid YAML syntax
 ## Try it out now by copy-pasting it into an online YAML parser
-## http://yaml-online-parser.appspot.com/
+## (e.g., http://yaml-online-parser.appspot.com/)
 
 {
  "json": [
@@ -178,11 +175,11 @@ YAML awesomeness
 * [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
 * [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
 * [drupal convert](https://www.drupal.org/node/1793074)
+* [Flextype](https://docs.flextype.org/en/getting-started/configuration)
 * [Hacker News](https://duckduckgo.com/?q=site%3Anews.ycombinator.com+YAML&ia=web)
 * [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
 * [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
 * [Statamic CMS](https://docs.statamic.com/yaml)
-* [Flextype](https://docs.flextype.org/en/getting-started/configuration)
 
 ## Parsers
 * [golang](https://github.com/go-yaml/yaml)
@@ -231,12 +228,12 @@ YAML awesomeness
 ## Templating
 * [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
 * [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
-* [YST YAML plus Haskell](https://github.com/jgm/yst)
 * [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
 * [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
-* [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
-* [ytt](https://get-ytt.io/) YAML Templating Tool. Templating and patching, together. Includes Python-like programming environment.
 * [Yglu](https://yglu.io) Structural YAML templating and processing
+* [YST YAML plus Haskell](https://github.com/jgm/yst)
+* [ytt](https://get-ytt.io/) YAML Templating Tool. Templating and patching, together. Includes Python-like programming environment.
+* [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
 
 ## Tools
 * [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
@@ -252,6 +249,7 @@ YAML awesomeness
 
 ## Variables
 * [Variable placeholders in YAML](https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml)
+
 ### Variables (example workarounds)
 * [Blog post on bash](https://starkandwayne.com/blog/bashing-your-yaml/)
 
