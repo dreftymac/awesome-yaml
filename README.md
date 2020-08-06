@@ -59,8 +59,10 @@ YAML awesomeness
     - [Advanced](#advanced)
     - [Alternatives](#alternatives)
     - [Annoyances](#annoyances)
+    - [Cloud](#cloud)
     - [Critique](#critique)
     - [Documentation and resources](#documentation-and-resources)
+    - [GUI](#gui)
     - [Mentions](#mentions)
     - [Parsers](#parsers)
     - [People](#people)
@@ -169,6 +171,9 @@ YAML is a configuration format similar to JSON.
 ## Annoyances
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
 
+## Cloud
+* [Azure Pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline)
+
 ## Critique
 * [Blog post](https://arp242.net/yaml-config.html)
 * [YAML sucks](https://github.com/cblp/yaml-sucks)
@@ -178,6 +183,9 @@ YAML is a configuration format similar to JSON.
 * [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
 * [YAML Multiline](http://yaml-multiline.info/)
+
+## GUI
+* [DDG Search](https://duckduckgo.com/?q=yaml+gui)
 
 ## Mentions
 * [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
@@ -265,10 +273,11 @@ YAML is a configuration format similar to JSON.
 * [DDG Search](https://duckduckgo.com/?q=yaml+validation)
 
 ## Tutorial
+* [YAML introduction](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml)
+* [YAML learnxinyminutes](https://learnxinyminutes.com/docs/yaml/)
 * [YAML Primer](https://getopentest.org/reference/yaml-primer.html)
 * [YAML Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
 * [YAML tutorial](https://rhnh.net/2011/01/31/yaml-tutorial)
-* [YAML introduction](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml)
 
 ## YAML GISTS
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
