@@ -274,7 +274,7 @@ YAML is a configuration format similar to JSON.
 * [DDG Search](https://duckduckgo.com/?q=yaml+validation)
 * [kube-score](https://github.com/zegl/kube-score)
 * [Kubeval](https://www.kubeval.com/)
-
+* [learnk8s -- blog post](https://learnk8s.io/validating-kubernetes-yaml#kubeval)
 ## Tutorial
 * [YAML introduction](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml)
 * [YAML learnxinyminutes](https://learnxinyminutes.com/docs/yaml/)
