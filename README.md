@@ -270,7 +270,10 @@ YAML is a configuration format similar to JSON.
 
 ## Validation
 * [Cerberus](https://docs.python-cerberus.org/en/stable/) validation package for Python
+* [Copper](https://github.com/cloud66-oss/copper)
 * [DDG Search](https://duckduckgo.com/?q=yaml+validation)
+* [kube-score](https://github.com/zegl/kube-score)
+* [Kubeval](https://www.kubeval.com/)
 
 ## Tutorial
 * [YAML introduction](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml)
