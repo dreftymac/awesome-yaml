@@ -9,10 +9,12 @@
   ###     desc: |
   ###         ## notes
   ###         * github awesome-yaml
+  ###
   ###         ## editing notes
   ###         * this readme file has a dependency on the ST3/MarkdownTOC package
   ###             * infra://uu284gl
   ###             * editing outside ST3 without this package requires manual updates to the TOC
+  ###
   ###     seealso: |
   ###         ## https
   ###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
@@ -39,6 +41,7 @@
   ## items
   * yaml+jinja search ;; https://duckduckgo.com/?q=yaml+jinja+stackoverflow&ia=web
   * people ;; http://champignon.net/
+  * https://git.github.io/rev_news/2020/07/29/edition-65/
 
   ## Variable placholders workarounds
   * https://starkandwayne.com/blog/bashing-your-yaml/
