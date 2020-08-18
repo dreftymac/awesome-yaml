@@ -9,10 +9,12 @@
   ###     desc: |
   ###         ## notes
   ###         * github awesome-yaml
+  ###
   ###         ## editing notes
   ###         * this readme file has a dependency on the ST3/MarkdownTOC package
   ###             * infra://uu284gl
   ###             * editing outside ST3 without this package requires manual updates to the TOC
+  ###
   ###     seealso: |
   ###         ## https
   ###         * https://github.com/dreftymac/awesome-yaml/blob/master/README.md
