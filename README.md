@@ -39,6 +39,7 @@
   ## items
   * yaml+jinja search ;; https://duckduckgo.com/?q=yaml+jinja+stackoverflow&ia=web
   * people ;; http://champignon.net/
+  * https://git.github.io/rev_news/2020/07/29/edition-65/
 
   ## Variable placholders workarounds
   * https://starkandwayne.com/blog/bashing-your-yaml/
