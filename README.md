@@ -261,8 +261,8 @@ YAML is a configuration format similar to JSON.
 ## Transformation
 * [AdaYaml Transforms](https://ada.yaml.io/trans)
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-* [Online transformation tools](https://www.browserling.com/tools/xml-to-yaml)
 * [DDG Search](https://duckduckgo.com/?q=YAML+transformation)
+* [Online transformation tools](https://www.browserling.com/tools/xml-to-yaml)
 * [JMESPath](https://jmespath.org/) technically a JSON tool, but powerful enough to be relevant here
     * [JMESPath extensions](https://github.com/grofers/go-codon/wiki/Jmespath-extensions)
 
