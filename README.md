@@ -49,7 +49,9 @@
 
 YAML awesomeness
 
-> A curated list of YAML resources. See also [Awesome Yaml (@datatxt)](https://github.com/datatxt/awseome-yaml)
+> A curated list of [YAML]( https://yaml.org/ ) resources.
+> Inspired by the [awesome](https://github.com/sindresorhus/awesome).
+> See also [Awesome Yaml (@datatxt)](https://github.com/datatxt/awseome-yaml)
 
 <!---##xreg id="uu284glots" d="MarkdownTOC-auto-headers" ##--->
 <!-- MarkdownTOC -->
