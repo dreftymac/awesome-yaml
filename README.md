@@ -172,11 +172,13 @@ YAML is a configuration format similar to JSON.
     * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation)
     * [JSON various (@burningtree)](https://github.com/burningtree/awesome-json#format-extensions)
     * [jsonnet](https://jsonnet.org/)
+    * [NestedText](https://nestedtext.org/en/stable/)
     * [NixOS Operating System](https://www.youtube.com/watch?v=D5Gq2wkRXpU)
         * [NixOS YouTube](https://www.youtube.com/watch?v=D5Gq2wkRXpU)
     * [TOML](https://github.com/toml-lang/toml)
 * Variants
     * [Strict YAML](https://github.com/crdoconnor/strictyaml) uses a subset of the full YAML specification.
+
 
 ## Annoyances
 <!--- id="dmid://uu086bintt1634232x004xlink" --->
@@ -191,9 +193,10 @@ YAML is a configuration format similar to JSON.
 ## Critique
 <!--- id="dmid://uu086bintt1634232x006xlink" --->
 
-* [Blog post](https://arp242.net/yaml-config.html)
-* [YAML sucks](https://github.com/cblp/yaml-sucks)
-* [YAML test matrix](https://matrix.yaml.io/valid.html)
+* [Blog post](https://arp242.net/yaml-config.html) -- Blog post
+* [NBWTWY](https://noyaml.com/) -- Blog post Nobody wants to write yaml
+* [YAML sucks](https://github.com/cblp/yaml-sucks) -- Github
+* [YAML test matrix](https://matrix.yaml.io/valid.html) -- Validators
 
 ## Documentation and resources
 <!--- id="dmid://uu086bintt1634232x007xlink" --->
