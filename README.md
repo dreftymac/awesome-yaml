@@ -96,6 +96,7 @@ YAML awesomeness
 # awesome-yaml
 
 ## Overview
+<!--- id="dmid://uu086bintt1634232x001xlink" --->
 
 YAML is a configuration format similar to JSON.
 
@@ -153,9 +154,13 @@ YAML is a configuration format similar to JSON.
 # Digging in
 
 ## Advanced
+<!--- id="dmid://uu086bintt1634232x002xlink" --->
+
 * [Advanced YAML features (@cyklo)](https://github.com/cyklo/Bukkit-OtherBlocks/wiki/Aliases-(advanced-YAML-usage))
 
 ## Alternatives
+<!--- id="dmid://uu086bintt1634232x003xlink" --->
+
 * Alternatives compared
     * [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
     * [Comparison of config formats (blogpost)](https://blog.ometer.com/2015/09/07/json-like-config-a-spectrum-of-underoverengineering)
@@ -174,25 +179,37 @@ YAML is a configuration format similar to JSON.
     * [Strict YAML](https://github.com/crdoconnor/strictyaml) uses a subset of the full YAML specification.
 
 ## Annoyances
+<!--- id="dmid://uu086bintt1634232x004xlink" --->
+
 - [Parsers](https://hackernoon.com/consistently-bad-parsing-of-yaml-ae23eb3676a1) Consistently bad parsing of YAML
 
 ## Cloud
+<!--- id="dmid://uu086bintt1634232x005xlink" --->
+
 * [Azure Pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline)
 
 ## Critique
+<!--- id="dmid://uu086bintt1634232x006xlink" --->
+
 * [Blog post](https://arp242.net/yaml-config.html)
 * [YAML sucks](https://github.com/cblp/yaml-sucks)
 * [YAML test matrix](https://matrix.yaml.io/valid.html)
 
 ## Documentation and resources
+<!--- id="dmid://uu086bintt1634232x007xlink" --->
+
 * [Discussion Archives](https://sourceforge.net/p/yaml/mailman/yaml-core)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/yaml)
 * [YAML Multiline](http://yaml-multiline.info/)
 
 ## GUI
+<!--- id="dmid://uu086bintt1634232x008xlink" --->
+
 * [DDG Search](https://duckduckgo.com/?q=yaml+gui)
 
 ## Mentions
+<!--- id="dmid://uu086bintt1634232x009xlink" --->
+
 * [After XML JSON then what?](http://www.drdobbs.com/web-development/after-xml-json-then-what/240151851)
 * [blog entry praising YAML over JSON](http://www.cowtowncoder.com/blog/archives/2012/04/entry_473.html)
 * [drupal convert](https://www.drupal.org/node/1793074)
@@ -203,6 +220,8 @@ YAML is a configuration format similar to JSON.
 * [Statamic CMS](https://docs.statamic.com/yaml)
 
 ## Parsers
+<!--- id="dmid://uu086bintt1634232x010xlink" --->
+* [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
 * [golang](https://github.com/go-yaml/yaml)
 * [javascript](https://github.com/nodeca/js-yaml)
     * http://nodeca.github.io/js-yaml/
@@ -214,10 +233,14 @@ YAML is a configuration format similar to JSON.
     * https://www.maxoberberger.net/blog/2017/04/yaml-syntaxcheck.html
 
 ## People
+<!--- id="dmid://uu086bintt1634232x011xlink" --->
+
 * [anthon@stackoverflow.com](https://stackoverflow.com/users/1307905/anthon)
 * [top users stackoverflow](https://stackoverflow.com/tags/yaml/topusers)
 
 ## Projects
+<!--- id="dmid://uu086bintt1634232x012xlink" --->
+
 * [ADA YAML](https://ada.yaml.io/) with focus on YAML 1.3
 * [Amazon ALEXA](https://github.com/KayLerch/alexa-skills-kit-tellask-java#prepare-your-utterance-yaml-file)
 * [ANSIBLE ansible uses YAML](https://github.com/ansible/ansible)
@@ -236,16 +259,22 @@ YAML is a configuration format similar to JSON.
   * [YAMLForm-Blog post](https://www.fourkitchens.com/blog/article/getting-nyu-yaml-form)
 
 ## Security
+<!--- id="dmid://uu086bintt1634232x013xlink" --->
+
 * [Norway Problem](https://hitchdev.com/strictyaml/why/implicit-typing-removed)
 * [Ruby exploit](http://www.ehackingnews.com/2013/01/rubygemsorg-hacked-via-yaml-parsing.html)
 
 ## Specification
+<!--- id="dmid://uu086bintt1634232x014xlink" --->
+
 * [Merge-keys spec](http://yaml.org/type/merge.html)
 * [Official site](http://www.yaml.org/)
 * [YAML Test Matrix](https://matrix.yaml.io/)
 * [YAML test suite](https://github.com/yaml/yaml-test-suite)
 
 ## Templating
+<!--- id="dmid://uu086bintt1634232x015xlink" --->
+
 * [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
 * [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
 * [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
@@ -256,11 +285,15 @@ YAML is a configuration format similar to JSON.
 * [Zenbu YAML plus Jinja](https://github.com/metakirby5/zenbu)
 
 ## Tools
+<!--- id="dmid://uu086bintt1634232x016xlink" --->
+
 * [Tools and services (@datatxt)](https://github.com/datatxt/awseome-yaml#tools--services)
 * [YAML parser (appspot.com)](http://yaml-online-parser.appspot.com/)
 * [YAML to golang](https://mengzhuo.github.io/yaml-to-go/)
 
 ## Transformation
+<!--- id="dmid://uu086bintt1634232x017xlink" --->
+
 * [AdaYaml Transforms](https://ada.yaml.io/trans)
 * [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to [jq](https://github.com/stedlan/jq) / [yq](https://github.com/kislyuk/yq) but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 * [DDG Search](https://duckduckgo.com/?q=YAML+transformation)
@@ -269,12 +302,18 @@ YAML is a configuration format similar to JSON.
     * [JMESPath extensions](https://github.com/grofers/go-codon/wiki/Jmespath-extensions)
 
 ## Variables
+<!--- id="dmid://uu086bintt1634232x018xlink" --->
+* [Dynamic YAML -- childish](https://github.com/childsish/dynamic-yaml)
 * [Variable placeholders in YAML](https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml)
 
 ### Variables (example workarounds)
+<!--- id="dmid://uu086bintt1634232x019xlink" --->
+
 * [Blog post on bash](https://starkandwayne.com/blog/bashing-your-yaml/)
 
 ## Validation
+<!--- id="dmid://uu086bintt1634232x020xlink" --->
+
 * [Cerberus](https://docs.python-cerberus.org/en/stable/) validation package for Python
 * [Copper](https://github.com/cloud66-oss/copper)
 * [DDG Search](https://duckduckgo.com/?q=yaml+validation)
@@ -283,6 +322,8 @@ YAML is a configuration format similar to JSON.
 * [learnk8s -- blog post](https://learnk8s.io/validating-kubernetes-yaml#kubeval)
 
 ## Tutorial
+<!--- id="dmid://uu086bintt1634232x021xlink" --->
+
 * [YAML introduction](https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml)
 * [YAML learnxinyminutes](https://learnxinyminutes.com/docs/yaml/)
 * [YAML Primer](https://getopentest.org/reference/yaml-primer.html)
@@ -290,18 +331,26 @@ YAML is a configuration format similar to JSON.
 * [YAML tutorial](https://rhnh.net/2011/01/31/yaml-tutorial)
 
 ## YAML GISTS
+<!--- id="dmid://uu086bintt1634232x022xlink" --->
+
 * [YAML succinct tutorial from user:ddlsmurf](https://gist.github.com/dreftymac/b68fef16a468ae56e275)
 
 ## YAML Gems
+<!--- id="dmid://uu086bintt1634232x023xlink" --->
+
 * [Using YAML custom tags (Advanced)](http://stackoverflow.com/a/23212501/42223)
 
 ## Searches
+<!--- id="dmid://uu086bintt1634232x024xlink" --->
+
 * [YAML placeholder variables](https://duckduckgo.com/?q=yaml+placeholder+variables)
 * [YAML shell](https://duckduckgo.com/?q=yaml+shell&ia=qa)
 
 ## See also
 
 ### Aweseomeness
+<!--- id="dmid://uu086bintt1634232x025xlink" --->
+
 * [Awesome YAML (datatxt) ](https://github.com/datatxt/awseome-yaml)
 * [Awesome home assistant](https://github.com/frenck/awesome-home-assistant)
 * [Awesome curated](https://github.com/sindresorhus/awesome)
@@ -311,10 +360,14 @@ YAML is a configuration format similar to JSON.
 * [Ansible Jinja addon filters](http://docs.ansible.com/ansible/latest/playbooks_filters.html)
 
 ### Github
+<!--- id="dmid://uu086bintt1634232x026xlink" --->
+
 * [GH Topic Code Generation](https://github.com/topics/code-generation?o=desc&s=stars)
 * [GH Topic YAML](https://github.com/topics/yaml?o=desc&s=stars)
 
 ## 💀 R.I.P.
+<!--- id="dmid://uu086bintt1634232x027xlink" --->
+
 * [DEPRECATED -- Stackoverflow Documentation](http://stackoverflow.com/documentation/yaml)
 * [Dynamic YAML -- dreftymac](https://github.com/dreftymac/dynamic.yaml)
 * [golang JSON and YAML gotchas](http://ghodss.com/2014/the-right-way-to-handle-yaml-in-golang/)
