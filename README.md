@@ -11,9 +11,9 @@
   ###         * github awesome-yaml
   ###
   ###         ## editing notes
-  ###         * this readme file has a dependency on the ST3/MarkdownTOC package
-  ###             * infra://uu284gl
-  ###             * editing outside ST3 without this package requires manual updates to the TOC
+  ###         * 2021-12-02 17:57:21 removed dependency on ST3/MarkdownTOC package
+  ###             * currently, updates to the contents requires manual update of TOC
+  ###             * infra://uu747dorpl
   ###
   ###     seealso: |
   ###         ## https
@@ -53,9 +53,7 @@ YAML awesomeness
 > Inspired by the [awesome](https://github.com/sindresorhus/awesome).
 > See also [Awesome Yaml (@datatxt)](https://github.com/datatxt/awseome-yaml)
 
-<!---##xreg id="uu284glots" d="MarkdownTOC-auto-headers" ##--->
-<!-- MarkdownTOC -->
-
+<!--- ##id="uu747dorpl1638496" d="TOC" ## --->
 - [awesome-yaml](#awesome-yaml)
     - [Overview](#overview)
         - [YAML is **underrated**](#yaml-is-underrated)
@@ -89,9 +87,7 @@ YAML awesomeness
         - [Aweseomeness](#aweseomeness)
         - [Github](#github)
     - [💀 R.I.P.](#%F0%9F%92%80-rip)
-
-<!-- /MarkdownTOC -->
-<!---##/xreg uu284glots ##--->
+<!--- ##uu747dorpl1638496## --->
 
 
 # awesome-yaml
