@@ -69,6 +69,7 @@ YAML awesomeness
     - [Documentation and resources](#documentation-and-resources)
     - [GUI](#gui)
     - [Mentions](#mentions)
+    - [NoCode](#nocode)
     - [Parsers](#parsers)
     - [People](#people)
     - [Projects](#projects)
@@ -221,6 +222,12 @@ YAML is a configuration format similar to JSON.
 * [HackerNews JSON/XML comparison](https://news.ycombinator.com/item?id=17360088)
 * [kubernetes](https://github.com/kubernetes/helm/blob/master/docs/chart_template_guide/yaml_techniques.md)
 * [Statamic CMS](https://docs.statamic.com/yaml)
+
+## NoCode
+<!--- id="dmid://uu972zumpg1638495x03xlink" --->
+
+* NoCode and LowCode
+* [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
 
 ## Parsers
 <!--- id="dmid://uu086bintt1634232x010xlink" --->
