@@ -10,6 +10,10 @@
   ###         ## notes
   ###         * github awesome-yaml
   ###
+  ###         ## awesome community
+  ###         * capt="compliance" ;; href="https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md" ;; tags="__tags01__" ;; id="dmid://uu394miskf1638497x03xlink"
+  ###         * capt="instructions" ;; href="https://github.com/sindresorhus/awesome/blob/main/create-list.md" ;; tags="__tags01__" ;; id="dmid://uu193jezfl1638497x03xlink"
+  ###
   ###         ## editing notes
   ###         * 2021-12-02 17:57:21 removed dependency on ST3/MarkdownTOC package
   ###             * currently, updates to the contents requires manual update of TOC
@@ -282,6 +286,7 @@ YAML is a configuration format similar to JSON.
 <!--- id="dmid://uu086bintt1634232x015xlink" --->
 
 * [Ansible-based YAML plus Jinja](https://docs.ansible.com/ansible-container/container_yml/template.html)
+* [gomplate -- golang templating system that supports YAML](https://github.com/hairyhenderson/gomplate)
 * [Ruby-based YAML plus Ruby](http://benjamincongdon.me/blog/2016/07/27/Liquid-YAML-Programmatic-Data/)
 * [Tempered YAML plus Bash](https://github.com/ChrisPenner/tempered)
 * [Yasha YAML plus Jinja](https://github.com/kblomqvist/yasha)
