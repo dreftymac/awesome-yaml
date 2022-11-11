@@ -197,7 +197,7 @@ YAML is a configuration format similar to JSON.
 * [Blog post](https://arp242.net/yaml-config.html) -- Blog post
 * [NBWTWY](https://noyaml.com/) -- Blog post Nobody wants to write yaml
 * [YAML sucks](https://github.com/cblp/yaml-sucks) -- Github
-* [YAML test matrix](https://matrix.yaml.io/valid.html) -- Validators
+* [YAML test matrix](https://matrix.yaml.info/valid.html) -- Validators
 
 ## Documentation and resources
 <!--- id="dmid://uu086bintt1634232x007xlink" --->
