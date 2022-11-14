@@ -165,6 +165,7 @@ YAML is a configuration format similar to JSON.
 * Alternatives compared
     * [Comparison of config formats (@njsmith)](https://gist.github.com/njsmith/78f68204c5d969f8c8bc645ef77d4a8f)
     * [Comparison of config formats (blogpost)](https://blog.ometer.com/2015/09/07/json-like-config-a-spectrum-of-underoverengineering)
+    * [Nested text overview comparison](https://nestedtext.org/en/stable/alternatives.html?highlight=yaml#yaml)
     * [Structured text tools (@dbohdan)](https://github.com/dbohdan/structured-text-tools)
 * Alternatives (one-off competing)
     * [ArchieML](http://archieml.org/)
