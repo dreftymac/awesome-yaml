@@ -340,6 +340,7 @@ YAML is a configuration format similar to JSON.
 * [YAML Primer](https://getopentest.org/reference/yaml-primer.html)
 * [YAML Primer](https://github.com/darvid/trine/wiki/YAML-Primer)
 * [YAML tutorial](https://rhnh.net/2011/01/31/yaml-tutorial)
+* [YAML Guide](https://spacelift.io/blog/yaml)
 
 ## YAML GISTS
 <!--- id="dmid://uu086bintt1634232x022xlink" --->
